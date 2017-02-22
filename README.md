@@ -1,7 +1,6 @@
 # Portfolio
 Parth Contractor
 
-All the games have been created using the UNITY3D game engine.
+The games and tech Demos are created using C++ and unity game engine (Scripting language C#)
 
-Language used for the coding and scripting is C#
-Each Game contains a playable web build for game in the folder Builds/Web Build
+Each game from unity contains a playable build in the "Builds" folder
